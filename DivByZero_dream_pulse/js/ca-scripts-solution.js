@@ -3,6 +3,8 @@ var customerName = "Alliance  ";
 // <h1 id="tm-header" class="tm-brand text-uppercase"></h1> <!--todo: Add Customer Name-->
 function addCustomerName() {
 
+    
+
     let title = document.getElementById('title')
     title.textContent = customerName;
 
